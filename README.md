@@ -29,3 +29,17 @@ Welcome to my repository dedicated to mastering Linux from scratch. Linux is the
 ## 🔬 Practical Labs & Targets
 - 🌐 **TryHackMe:** Currently solving the **Linux Fundamentals (Part 1, 2, 3)** rooms.
 - 💻 **Environment:** Practicing on a local Linux Terminal / TryHackMe AttackBox.
+  ---
+
+## 🛠️ Phase 2: File Permissions & Security (Next Target)
+| Command | What it does (In my words) | Example Usage |
+| :--- | :--- | :--- |
+| `chmod` | Change Mode - Changes file/folder permissions (e.g., making a script executable). | `chmod +x script.sh` |
+| `chown` | Change Owner - Changes the user and/or group ownership of a file. | `sudo chown root:root secret.txt` |
+
+---
+
+### 📅 My Progress Checklist
+- [x] Day 1-5: Basic Navigation & File System Management
+- [x] Setup local Linux environment on the new laptop 🎉
+- [ ] Day 6-10: File Permissions & User Access Control (Current Goal)
