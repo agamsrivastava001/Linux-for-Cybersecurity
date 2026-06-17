@@ -54,3 +54,8 @@ Welcome to my repository dedicated to mastering Linux from scratch. Linux is the
 * **Room Cleared:** TryHackMe - Linux Fundamentals (Part 1) 🥇
 * **Global Rank Boost:** Successfully entered the **Top 60%** league on TryHackMe with **221 Points**!
 * 
+## 🔬 Lab Achievement Update (17-06-2026)
+- 🥈 *League Status:* Promoted to **Silver League** on TryHackMe!
+- 📈 *Global Rank:* Pushed into the **Top 35%** globally with **1067+ Points**.
+- 🏆 *Rooms Cleared:* TryHackMe - Linux Fundamentals (Part 1) 🥇
+- 🤖 *Automation:* Added an automated [system_recon.sh](./system_recon.sh) script for quick system discovery.
